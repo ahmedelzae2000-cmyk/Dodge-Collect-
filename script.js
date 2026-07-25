@@ -1,1 +1,0 @@
-let s=0;function start(){setInterval(()=>{s++;document.getElementById('t').textContent='الوقت: '+s+' ثانية';},1000)}
